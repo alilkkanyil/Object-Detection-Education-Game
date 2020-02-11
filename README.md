@@ -19,4 +19,4 @@ matplotlib
 cv2
 
 # Instructions
-After acquiring the required libraries, get tensorflow models repository (found here: https//github.com/tensorflow/models) and place the files on models/research/object_detection folder. Object detection model is not provided here. You may train your own detection model and use other "cursors" to play the game. After providing an object detection model, run GameTestV5.py with Python 3.
+After acquiring the required libraries, get tensorflow models repository (found here: [link](https//github.com/tensorflow/models)) and place the files on models/research/object_detection folder. Object detection model is not provided here. You may train your own detection model and use other "cursors" to play the game. After providing an object detection model, run GameTestV5.py with Python 3.
